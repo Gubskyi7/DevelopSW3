@@ -1,3 +1,10 @@
 1st line
 2nd line
 3rd line
+<<<<<<< HEAD
+=======
+M 4
+M 5
+M 6 
+M 7
+>>>>>>> develop
